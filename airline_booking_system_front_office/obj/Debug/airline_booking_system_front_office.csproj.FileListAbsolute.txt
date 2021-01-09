@@ -1,0 +1,7 @@
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\Airline-Booking-System\airline_booking_system_front_office\bin\airline_booking_system_front_office.dll.config
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\Airline-Booking-System\airline_booking_system_front_office\bin\airline_booking_system_front_office.dll
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\Airline-Booking-System\airline_booking_system_front_office\bin\airline_booking_system_front_office.pdb
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\Airline-Booking-System\airline_booking_system_front_office\obj\Debug\airline_booking_system_front_office.csprojAssemblyReference.cache
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\Airline-Booking-System\airline_booking_system_front_office\obj\Debug\airline_booking_system_front_office.csproj.CoreCompileInputs.cache
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\Airline-Booking-System\airline_booking_system_front_office\obj\Debug\airline_booking_system_front_office.dll
+C:\Users\Diogo Alpendre\OneDrive - IPLeiria\Para arrumar\Documentos\GitHub\Airline-Booking-System\airline_booking_system_front_office\obj\Debug\airline_booking_system_front_office.pdb
